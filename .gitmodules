@@ -1,0 +1,4 @@
+[submodule "shiny-basics"]
+	path = shiny-basics
+	url = git@github.com:mitchelloharawild/shiny-basics.git
+	branch = gh-pages
