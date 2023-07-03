@@ -2,3 +2,7 @@
 	path = shiny-basics
 	url = git@github.com:mitchelloharawild/shiny-basics.git
 	branch = gh-pages
+[submodule "workshop-nyr2023"]
+	path = nyr2023
+	url = git@github.com:mitchelloharawild/workshop-nyr2023.git
+	branch = gh-pages
