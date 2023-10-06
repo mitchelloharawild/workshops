@@ -6,3 +6,7 @@
 	path = nyr2023
 	url = git@github.com:mitchelloharawild/workshop-nyr2023.git
 	branch = gh-pages
+[submodule "f4sg-africa"]
+	path = f4sg-africa
+	url = git@github.com:mitchelloharawild/workshop-f4sg-africa.git
+	branch = gh-pages
