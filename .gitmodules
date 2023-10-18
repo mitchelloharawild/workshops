@@ -8,5 +8,5 @@
 	branch = gh-pages
 [submodule "f4sg-africa"]
 	path = f4sg-africa
-	url = git@github.com:mitchelloharawild/workshop-f4sg-africa.git
+	url = git@github.com:Forecasting-for-Social-Good/workshop-f4sg-africa.git
 	branch = gh-pages
