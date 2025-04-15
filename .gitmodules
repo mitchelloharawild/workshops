@@ -10,3 +10,7 @@
 	path = f4sg-africa
 	url = git@github.com:Forecasting-for-Social-Good/workshop-f4sg-africa.git
 	branch = gh-pages
+[submodule "fable-2025"]
+	path = fable-2025
+	url = git@github.com:mitchelloharawild/workshop-fable-2025.git
+	branch = gh-pages
